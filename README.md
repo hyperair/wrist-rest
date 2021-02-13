@@ -1,6 +1,6 @@
 ## About
 
-This is a parametric 3d-pritnable wrist rest that I designed in OpenSCAD for use with tall-ish mechanical keyboards, but it can be tweaked for any other purpose as well.
+This is a parametric 3d-printable wrist rest that I designed in OpenSCAD for use with tall-ish mechanical keyboards, but it can be tweaked for any other purpose as well.
 
 ## Parameters
 
@@ -27,3 +27,4 @@ This is a parametric 3d-pritnable wrist rest that I designed in OpenSCAD for use
 ## Related Links
 
 See [Thingiverse](https://www.thingiverse.com/thing:4758164) for screenshots and renderings.
+n
