@@ -2,11 +2,11 @@ include <MCAD/units/metric.scad>
 use <MCAD/array/mirror.scad>
 
 length = 360;
-depth = 80;
-thickness = 20;
+depth = 65;
+thickness = 13;
 
 bevel_angle = 45;
-bevel_offset = 20;  // depth of left and right bevels
+bevel_offset = 10;  // depth of left and right bevels
 
 $fs = 0.4;
 $fa = 1;
